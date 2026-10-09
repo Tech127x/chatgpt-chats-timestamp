@@ -16,3 +16,6 @@ npm-debug.log*
 .DS_Store
 Thumbs.db
 desktop.ini
+
+# Locally packaged Firefox extension
+/chatgpt-chats-timestamp-firefox.zip
